@@ -4,7 +4,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "kaapil2017/devopsexamapp:latest"
+        DOCKER_IMAGE = "kapil2017/devopsexamapp:latest"
     }
 
     stages {
